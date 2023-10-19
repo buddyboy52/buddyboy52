@@ -21,7 +21,7 @@
 
 
 
->"Programming is just saying “I have a meeting in an hour so better not start on this yet” to yourself until you die"
+>"Programming is just saying 'I have a meeting in an hour so better not start on this yet' to yourself until you die"
 ><br> -Alex EngelBerg
 
 <!--
